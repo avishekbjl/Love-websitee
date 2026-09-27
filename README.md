@@ -234,7 +234,7 @@ button {
 <div class="screen" id="noScreen">
   <div class="box">
 
-    
+    <img src="screenshot.jpg" alt="Our Photo">
 
     <h1>😂 You chose NO!</h1>
 
